@@ -23,8 +23,7 @@ function About(){
                  Aussi bien pour nos hôtes que pour les voyageurs, 
                  chaques logement correspond aux critères de sécurité établis par nos services.
                   En laissant une note aussi bien à l'hôte qu'au locataire, 
-                  cela permet à nos équipes de vérifier que les standards sont bien réspéctés.
-                   Nous organisons également des ateliers sur la sécurité domestique pour nos hotes.  </p></details>
+                  cela permet à nos équipes de vérifier que les standards sont bien réspéctés. Nous organisons également des ateliers sur la sécurité domestique pour nos hotes.  </p></details>
        
 
 

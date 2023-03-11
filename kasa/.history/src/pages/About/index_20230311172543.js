@@ -15,16 +15,10 @@ function About(){
                 entrainera une exclusion de notre plateforme</p></details>
                 <details><summary>Service</summary>
             <p>
-                Nos équipes se tiennent à votre disposition pour vous fournir une expérience parfaite.
-                 N'h"sitez pas à nous contacter si vous avez la moindre question </p></details>
+                Nos équipes se tiennent à votre disposition pour vous fournir une expérience parfaite. N'h"sitez pas à nous contacter si vous avez la moindre question </p></details>
                 <details><summary>Securité</summary>
             <p>
-                La Securitéest la priorité de KAsa.
-                 Aussi bien pour nos hôtes que pour les voyageurs, 
-                 chaques logement correspond aux critères de sécurité établis par nos services.
-                  En laissant une note aussi bien à l'hôte qu'au locataire, 
-                  cela permet à nos équipes de vérifier que les standards sont bien réspéctés.
-                   Nous organisons également des ateliers sur la sécurité domestique pour nos hotes.  </p></details>
+                La Securitéest la priorité de KAsa. Aussi bien pour nos hôtes que pour les voyageurs, chaques logement correspond aux critères de sécurité établis par nos services. En laissant une note aussi bien à l'hôte qu'au locataire, cela permet à nos équipes de vérifier que les standards sont bien réspéctés. Nous organisons également des ateliers sur la sécurité domestique pour nos hotes.  </p></details>
        
 
 
