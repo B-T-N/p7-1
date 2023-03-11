@@ -1,12 +1,14 @@
-import { logo } from '../../asssets/logo/LOGOF'
-import '../styles/Footer.css'
-
+import { Link } from "react-router-dom"
+import logof from "../../asssets/logo/LOGOF.png"
 function Footer() {
 
 	return (
-		<footer className='lmj-footer'>
-            <img id='logo-footer' src= {logo} alt= "logo kasa footer"/>
-			<div className='lmj-footer-elem'>
+		
+		<footer>
+			<Link to="/">
+				<img id = "logo_footer" src={logof} alt = "logo footer kasa"/>
+			</Link>
+			<div className='footer_text'>
 @2020 Kasa. All rights reserved			</div>
 		</footer>
 	)
