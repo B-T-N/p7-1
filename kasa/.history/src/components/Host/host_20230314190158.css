@@ -1,0 +1,15 @@
+#host-picture {
+    border-radius:100%;
+
+}
+#host{
+    display: flex;
+    align-content: space-between;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+#host-stars{
+    
+}

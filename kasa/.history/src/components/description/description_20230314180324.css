@@ -1,0 +1,32 @@
+.description-details{
+    position: absolute;
+    left: 3.44%;
+    right: 75.26%;
+    top: 25%;
+    bottom: 25%;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 142.6%;
+    /* identical to box height, or 26px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+.description-title{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #FF6060;
+    border-radius: 10px;
+}
+.description-text{
+
+}

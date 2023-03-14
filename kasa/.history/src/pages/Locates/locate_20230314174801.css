@@ -1,0 +1,15 @@
+#intro{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between
+}
+#housing-info{
+    display: flex;
+    margin-bottom: 150px;
+}
+#tag{
+    background-color:red;
+    border-radius:12px;
+}

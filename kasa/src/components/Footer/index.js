@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom"
 import logof from "../../asssets/logo/LOGOF.png"
+import "./footer.css"
 function Footer() {
 
 	return (

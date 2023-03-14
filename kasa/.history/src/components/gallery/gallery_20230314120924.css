@@ -1,0 +1,40 @@
+.gallery-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .fa-solid {
+    font-size: 2rem;
+    cursor: pointer;
+    margin: 0 1rem;
+  }
+  
+  .fa-chevron-left {
+    transform: scaleX(-1);
+  }
+  
+  .gallery-image-container {
+    position: relative;
+  }
+  
+  .gallery-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  
+  .gallery-image-container > div {
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  
+  .gallery-image-container > div:first-child {
+    opacity: 1;
+  }
+  
+  .fa-chevron-right {
+    position: absolute;
+    right: 0;
+  }

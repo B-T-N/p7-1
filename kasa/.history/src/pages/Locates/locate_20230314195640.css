@@ -1,0 +1,30 @@
+#intro{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between
+}
+#intro-title{
+
+}
+#intro-location{
+    
+}
+#housing-info{
+    display: flex;
+    margin-bottom: 150px;
+}
+.tag{
+    background-color: #FF6060;
+    border-radius: 12px;
+    margin-left: 10px;
+    color: white;
+    font-weight: 500;
+height: 25px;
+width: 115px;
+left: 0px;
+top: 0px;
+border-radius: 10px;
+
+}

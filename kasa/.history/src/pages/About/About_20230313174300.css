@@ -1,0 +1,9 @@
+details{ 
+    background-color: lightgrey;
+    margin: 10px;
+    width: 50;
+}
+summary{
+    background-color: #ff6060;
+    width: 100%;
+}

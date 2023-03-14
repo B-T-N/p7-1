@@ -1,0 +1,11 @@
+details{ 
+    background-color: lightgrey;
+    margin: 10px;
+    width: 50%;
+    height: ;
+}
+summary{
+    background-color: #ff6060;
+    width: 100%;
+    border-radius: 25px;
+}
