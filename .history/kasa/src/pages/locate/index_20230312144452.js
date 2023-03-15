@@ -1,4 +1,0 @@
-function Locate(){
-    return
-    p
-}
