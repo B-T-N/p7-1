@@ -3,7 +3,7 @@ function Equipments({ equipments }) {
     return (
       <details className="equipement-details">
         <summary className="equipement-title">
-          Equipements <i className="fa-solid fa-chevron-down"></i>
+          <p className="det-title">Equipements </p>
         </summary>
         <ul className="equipement-text">
           {equipments.map((equipment) => {

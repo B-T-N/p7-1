@@ -36,14 +36,15 @@
     top: 50%;
     transform: translateY(-50%);
     cursor: pointer;
-    width: 47px;
-    height: 80px;
+    Width:46.68px;
+    Height:79.2px;
+
   }
   
   img[alt="Flèche gauche"] {
-    left: 150px;
+    left: 30px;
   }
   
   img[alt="Flèche droite"] {
-    right: 150px;
+    right: 30px;
   }

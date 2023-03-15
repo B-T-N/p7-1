@@ -11,6 +11,9 @@
  #title h1{
         position: absolute;
         color:white;
+        font-weight: 500;
+        font-size:48px;
+
     
     }
 #titlebanner{

@@ -1,5 +1,4 @@
 .equipement-details{
-    margin: auto;
 
 }
 .equipement-title{
@@ -7,4 +6,8 @@
 }
 .equipement-text{
     
+}
+.det-title{
+    margin: 15px;
+
 }

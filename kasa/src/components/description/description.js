@@ -1,8 +1,9 @@
+import "./description.css"
 function Description({ description }) {
   return (
     <details className="description-details">
       <summary className="description-title">
-        Description        
+      <p className="det-title">Description </p>         
     
 
       </summary>
