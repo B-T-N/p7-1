@@ -1,0 +1,47 @@
+details description-details details{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    margin: 30px;
+    background: #FF6060;
+    border-radius: 10px;
+}
+.description-title{
+    position: absolute;
+    left: 3.44%;
+    right: 78.35%;
+    top: 25%;
+    bottom: 25%;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 142.6%;
+    /* identical to box height, or 26px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+.description-text{
+    position: absolute;
+    left: 3.44%;
+    right: 2.06%;
+    top: 157.69%;
+    bottom: -357.69%;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 142.6%;
+    /* or 26px */
+    
+    
+    color: #FF6060;
+    
+}
