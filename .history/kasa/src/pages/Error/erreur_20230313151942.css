@@ -1,0 +1,29 @@
+#error span{
+    font-size: 300px;
+    color: red;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center
+
+}
+#error p{
+    font-size:xx-large;
+    color: red;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center
+}
+.backhome{
+    font-size:x-large;
+    color: red;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom 100px;;
+}

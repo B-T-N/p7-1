@@ -1,0 +1,20 @@
+#error span{
+    font-size: 400px;
+    color: red;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center
+
+}
+#error p{
+    font-size:xx-large;
+    color: red;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center
+}
+.ba

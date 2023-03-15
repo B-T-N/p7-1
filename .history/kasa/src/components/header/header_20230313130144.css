@@ -1,0 +1,19 @@
+#title{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center}
+#titlebanner{
+    height: 100px;
+    width: 100%;
+    object-fit: cover;
+    border-radius
+
+}
+#title h1{
+    position: absolute;
+    color:white;
+
+}
+

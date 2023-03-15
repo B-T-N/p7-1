@@ -1,0 +1,15 @@
+#title{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center}
+#titlebanner{
+    height: 100px;
+
+}
+#titlebanner h1{
+    position: absolute;
+
+}
+

@@ -1,0 +1,15 @@
+.cards{
+	color: white;
+	background-color: lightgray;
+	padding: 32px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+    border-radius: 25px;
+}
+.cards img {
+    width: 25%;
+    height: 25%;
+    object-fit: cover;
+}
+.cards 

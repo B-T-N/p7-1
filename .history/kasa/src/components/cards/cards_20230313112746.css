@@ -1,0 +1,6 @@
+.cards{
+    width: 400px; ;
+    height: 500px;
+    margin-top: 5%; ;
+    object-fit: cover;
+}

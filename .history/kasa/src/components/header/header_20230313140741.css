@@ -1,0 +1,27 @@
+#title{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+
+}
+#titlebanner{
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+    border-radius:25px;
+
+
+}
+#title h1{
+    position: absolute;
+    color:white;
+
+}
+
+.nav-about{
+
+}
+.n
