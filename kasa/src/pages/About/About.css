@@ -70,6 +70,8 @@ summary{
     object-fit: cover;
     width: 90%;
     border-radius:25px;
+    filter: brightness(0.5)
+
 }
 .aboutname{
     margin: 10px;

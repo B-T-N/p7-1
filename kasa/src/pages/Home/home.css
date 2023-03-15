@@ -1,8 +1,33 @@
-#title{
-
-}
+#title{height: 223px;
+    border-radius: 25px;
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+      }
+ #title h1{
+        position: absolute;
+        color:white;
+    
+    }
 #titlebanner{
-
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 68px;
+    letter-spacing: 0em;
+    margin-bottom: 25px;
+    height: 223px;
+    width: 95%;
+    object-fit: cover;
+    border-radius: 25px;
+    margin-top: 30px;
+    text-align: left;
+    filter: brightness(0.5)
+ 
+    
 }
 #cards a{ 
 

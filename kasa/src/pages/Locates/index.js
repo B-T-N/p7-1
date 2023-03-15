@@ -16,7 +16,7 @@ function Locate() {
     <main>
       <Gallery />
       <div id="intro">
-        <div>
+        <div id="intro_all">
           <h1 id="intro-title">{title}</h1>
           <h2 id="intro-location">{location}</h2>
           <div id="tags">

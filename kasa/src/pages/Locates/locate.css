@@ -3,9 +3,13 @@
     flex-direction: row;
     flex-wrap: wrap;
     align-content: space-between;
-    justify-content: space-between
+    justify-content: space-between;
+    width: 95%;
 }
 #intro-title{
+    margin: auto;
+}
+#intro_all{
 
 }
 #intro-location{

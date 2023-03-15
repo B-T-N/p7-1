@@ -1,3 +1,4 @@
+import "./equipement.css"
 function Equipments({ equipments }) {
     return (
       <details className="equipement-details">
