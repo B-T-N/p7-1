@@ -9,7 +9,6 @@ function Gallery() {
   const { id } = useParams();
   const locatePict = locatelist.find((object) => object.id === id);
   const { pictures } = locatePict;
-
   const [current, setCurrent] = useState(0);
 
   const index = locatelist.findIndex((object) => object.id === id);

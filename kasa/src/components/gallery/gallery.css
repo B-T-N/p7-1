@@ -48,3 +48,8 @@
   img[alt="Flèche droite"] {
     right: 30px;
   }
+  @media (max-width: 992px) 
+{    .gallery-image {
+  height: 255px;
+}
+}
