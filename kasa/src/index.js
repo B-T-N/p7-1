@@ -17,7 +17,6 @@ root.render(
       <Route path="/" element={<Home />} />
       <Route
         path="/Locate/:id"
-        render={(props) => <Locate {...props} />}
         element={<Locate />}
       />
       <Route path="*" element={<Error />} />

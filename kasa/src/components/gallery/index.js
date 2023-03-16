@@ -30,7 +30,7 @@ function Gallery() {
 
   return (
     <div className="gallery-container">
-      {pictures.length > 1 && (
+      {true && (
         <img src={arrowback} alt="Flèche gauche" onClick={prevSlide} />
       )}
       <div className="gallery-image">
@@ -48,7 +48,7 @@ function Gallery() {
           );
         })}
       </div>
-      {pictures.length > 1 && (
+      {true && (
         <img src={arrownext} alt="Flèche droite" onClick={nextSlide} />
       )}
     </div>
