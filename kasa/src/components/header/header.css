@@ -31,3 +31,13 @@ header nav{
 
 
 }
+@media (max-width: 768px) {
+
+    .nav-accueil{
+    font-size: 12px;
+    }
+    .nav-about{
+        font-size: 12px;
+    }
+    
+}

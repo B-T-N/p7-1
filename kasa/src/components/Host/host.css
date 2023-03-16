@@ -34,3 +34,15 @@
 
     
 }
+@media (max-width: 768px) {
+    #host{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 95%;
+    align-content: stretch;
+    margin: auto;
+    margin-left: 50px;}
+}
