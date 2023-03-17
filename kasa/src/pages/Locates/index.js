@@ -8,7 +8,10 @@ import "./locate.css"
 function Locate() {
   const { id } = useParams();
   const locateone = locatelist.find((object) => object.id === id);
-
+ 
+  if (!locateone) {
+    window.location.replace('/erreur');
+  }
   const { title, location, tags, host, rating, description, equipments } =
     locateone;
 
