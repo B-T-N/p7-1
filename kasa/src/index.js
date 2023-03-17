@@ -12,7 +12,7 @@ import Footer from "./components/Footer";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
-  <Header></Header>
+    <Header></Header>
     <Routes>
       <Route path="/" element={<Home />} />
       <Route

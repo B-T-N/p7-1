@@ -4,13 +4,14 @@ import "./footer.css"
 function Footer() {
 
 	return (
-		
+
 		<footer>
 			<Link to="/">
-				<img id = "logo_footer" src={logof} alt = "logo footer kasa"/>
+				<img id="logo_footer" src={logof} alt="logo footer kasa" />
 			</Link>
 			<div className='footer_text'>
-@2020 Kasa. All rights reserved			</div>
+				@2020 Kasa. All rights reserved		
+			</div>
 		</footer>
 	)
 }

@@ -3,9 +3,7 @@ function Description({ description }) {
   return (
     <details className="description-details">
       <summary className="description-title">
-      <p className="det-title">Description </p>         
-    
-
+        <p className="det-title">Description </p>
       </summary>
       <p className="description-text">{description}</p>
     </details>
